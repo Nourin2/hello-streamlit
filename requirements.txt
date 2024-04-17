@@ -1,6 +1,7 @@
-streamlit= 1.29.0
-pandas=1.2
-matplotlib=3.6.1
-seaborn=1.26.4
-plotly.express=23.2
+
+streamlit==1.29.0
+
+matplotlib==3.6.1
+seaborn==1.26.4
+plotly.express==23.2
 
